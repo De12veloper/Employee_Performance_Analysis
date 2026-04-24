@@ -15,6 +15,7 @@ NumPy
 Matplotlib / Seaborn
 Scikit-learn
 📂 Project Structure
+  ```bash
 Employee_Performance_Analysis/
 │── data/                  # Dataset files
 │── notebooks/             # Jupyter notebooks
@@ -22,33 +23,46 @@ Employee_Performance_Analysis/
 │── outputs/               # Graphs & results
 │── requirements.txt       # Dependencies
 │── README.md              # Project documentation
+  ```
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
+  ```bash
 git clone https://github.com/De12veloper/Employee_Performance_Analysis.git
 cd Employee_Performance_Analysis
+ ```
 2️⃣ Create Virtual Environment (Recommended)
+```bash
 python -m venv venv
+```
 Activate Environment
 Windows:
+ ```bash
 venv\Scripts\activate
+```
 Mac/Linux:
+ ```bash
 source venv/bin/activate
+```
 3️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 ▶️ Run the Project
 If using Jupyter Notebook:
+```bash
 jupyter notebook
-
+```
 Open the notebook and run all cells.
-
 If using Python script:
+```bash
 python main.py
-
+```
 (Update filename if different)
 
 📦 requirements.txt
 
 Create a file named requirements.txt and add:
+```bash
 
 pandas
 numpy
@@ -56,6 +70,7 @@ matplotlib
 seaborn
 scikit-learn
 jupyter
+```
 📊 Sample Outputs
 Employee performance distribution graphs
 Correlation heatmaps
