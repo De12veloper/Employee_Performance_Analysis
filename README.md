@@ -17,11 +17,10 @@ Scikit-learn
 📂 Project Structure
   ```bash
 Employee_Performance_Analysis/
-│── data/                  # Dataset files
-│── notebooks/             # Jupyter notebooks
+│── Project Summary/       # Dataset files
+│── data/                  # Jupyter notebooks
 │── src/                   # Python scripts (if any)
 │── outputs/               # Graphs & results
-│── requirements.txt       # Dependencies
 │── README.md              # Project documentation
   ```
 ⚙️ Installation & Setup
@@ -45,7 +44,7 @@ source venv/bin/activate
 ```
 3️⃣ Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 ▶️ Run the Project
 If using Jupyter Notebook:
@@ -55,7 +54,7 @@ jupyter notebook
 
 📦 requirements.txt
 
-Create a file named requirements.txt and add:
+Create a file named requirement.txt and add:
 ```bash
 
 pandas
