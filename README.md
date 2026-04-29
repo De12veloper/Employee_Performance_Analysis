@@ -57,12 +57,12 @@ jupyter notebook
 Create a file named requirement.txt and add:
 ```bash
 
-pandas
 numpy
-matplotlib
+pandas
+sklearn
 seaborn
-scikit-learn
-jupyter
+matplotlib.pyplot
+catboost
 ```
 📊 Sample Outputs
 Employee performance distribution graphs
