@@ -52,7 +52,7 @@ If using Jupyter Notebook:
 jupyter notebook
 ```
 
-📦 requirements.txt
+📦 requirement.txt
 
 Create a file named requirement.txt and add:
 ```bash
