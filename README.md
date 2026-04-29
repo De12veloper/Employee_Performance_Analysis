@@ -52,12 +52,6 @@ If using Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
-Open the notebook and run all cells.
-If using Python script:
-```bash
-python main.py
-```
-(Update filename if different)
 
 📦 requirements.txt
 
